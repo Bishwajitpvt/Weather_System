@@ -38,3 +38,9 @@
 
 Blynk Dashboard Output
 ![image](https://user-images.githubusercontent.com/77453811/230959997-00748517-d06f-42d8-ac2d-eb8a302d301b.png)
+
+# Video Output
+
+https://drive.google.com/file/d/1DXnJa8Z06xOCYUYiV4NLfz_F_xKYijZH/view?usp=sharing
+
+
