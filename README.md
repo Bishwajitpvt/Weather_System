@@ -7,14 +7,15 @@
 3. BMP180 sensor
 4. Rain sensor
 5. Breadboard
-6. LDR sensor
+<!-- 6. LDR sensor
 7. LCD display
-8. I2C module
+8. I2C module -->
 
 
 # Circuit Diagram
 
-![Capture-4NzaVL5wP-transformed](https://user-images.githubusercontent.com/77453811/230739631-eddbfd24-080c-4407-884a-abc8b2382a81.png)
+![Circuit-Diagram-1-PhotoRoom](https://user-images.githubusercontent.com/77453811/230955037-31527996-a12c-4a12-936c-543adf183f50.jpg)
+
 
 # Installing the ESP8266 Board
 1. Go to File =>  Preferences to open the Preferences window in the Arduino IDE.
