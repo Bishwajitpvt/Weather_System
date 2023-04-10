@@ -32,3 +32,9 @@
 3. DHT sensor library by Adafruit Version 1.4.4
 4. Grove Barometer Sensor by Seeed Studio Version 2.1.0
 5. LiquidCrystal 12C by Frank de Brabander Version 1.1.2
+
+
+# Output
+
+Blynk Dashboard Output
+![image](https://user-images.githubusercontent.com/77453811/230959997-00748517-d06f-42d8-ac2d-eb8a302d301b.png)
