@@ -17,6 +17,8 @@
 ![Circuit-Diagram-1-PhotoRoom](https://user-images.githubusercontent.com/77453811/230955037-31527996-a12c-4a12-936c-543adf183f50.jpg)
 
 
+
+
 # Installing the ESP8266 Board
 1. Go to File =>  Preferences to open the Preferences window in the Arduino IDE.
 2. Copy this URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json and paste it into Additional Boards Manager URLs 
@@ -33,6 +35,10 @@
 4. Grove Barometer Sensor by Seeed Studio Version 2.1.0
 5. LiquidCrystal 12C by Frank de Brabander Version 1.1.2
 
+# COM PORT ISSUE
+https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
+
+Download CP210x Windows Drivers
 
 # Output
 
